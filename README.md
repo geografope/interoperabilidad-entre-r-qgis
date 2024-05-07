@@ -1,5 +1,6 @@
 <img src= 'img/banner.jpg'/>
-En este repositorio 🗂️ encontrarás todo el contenido que fue explicado paso a paso en canal de YouTube, asimimos se adjunta una serie de indicaciones de como poder integrar<img src='https://raw.githubusercontent.com/geografope/recursos/524a42e7aa9f80b1948fcecf4d9b909a31665990/qgis.svg' width=17 align='center'/>con<img src='https://raw.githubusercontent.com/geografope/recursos/524a42e7aa9f80b1948fcecf4d9b909a31665990/r.svg' width=17 align='center'/>y viceversa. Del mismo modo econtrarás algunos scripts a modo de ejemplo de ciertos geoprocesos básicos que suelen ser útiles en los Sistemas de Información Geográfica.
+
+En este repositorio 🗂️ encontrarás todo el contenido que fue explicado paso a paso en canal de YouTube, asimimos se adjunta una serie de indicaciones de como poder integrar<img src='https://raw.githubusercontent.com/geografope/recursos/524a42e7aa9f80b1948fcecf4d9b909a31665990/qgis.svg' width=17 align='center'/>con<img src='https://raw.githubusercontent.com/geografope/recursos/524a42e7aa9f80b1948fcecf4d9b909a31665990/r.svg' width=17 align='center'/> y viceversa. Del mismo modo econtrarás algunos scripts a modo de ejemplo de ciertos geoprocesos básicos que suelen ser útiles en los Sistemas de Información Geográfica.
 
 ### 🟢 Requerimientos: 
 
