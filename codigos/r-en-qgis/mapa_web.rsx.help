@@ -1,0 +1,4 @@
+{"ALG_DESC": "<img src='C:/Users/USER/Desktop/interoperabilidad-entre-r-qgis/img/banner.jpg' width='300' align='center'/><br><b>Este herramienta nos permite crear un mapa web de forma rápida usando al API de Leaflet</b>",
+"Ingrese_tu_capa_vectorial":"Para esta primera versión solo cubre a geometrías de tipo punto.",
+"Tipo_de_base_map": "Presenta 2 opciones de basemap,entre estas temos a: <br> <ul><li>OpenStreetMap</li><li>Satelital</li></ul>",
+ "ALG_CREATOR": "<a href='https://geografo.pe'>Geografope</a>","Formato_de_salida":"El mapa exportado tendra como extensión al HTML.","ALG_VERSION": "1.0.0 <br><img src='C:/Users/USER/Desktop/interoperabilidad-entre-r-qgis/img/logo.png' width='90' align='left'/>"}
