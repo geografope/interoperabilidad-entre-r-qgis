@@ -21,9 +21,9 @@ Para poder replicar todo el contenido explicado en el video de YouTube 🔴🎞�
  </tr>
 </table>
 
-⚠️No olvides que los scripts desarrollados están dentro de la carpeta llamado **códigos**.
+⚠️ No olvides que los scripts desarrollados están dentro de la carpeta llamado **códigos**.
 
-Finalmente, ¿Deseas aprender más sobre la geografía computacional? Bueno ¡Enteráte más y aprender conmigo! 🔍💡 Suscríbete, activa las notificaciones 🔔 y únete a la comunidad que ama el software libre de codigo abierto. 🌟🌍👇
+🔮🧙🏼‍♂️ Finalmente, ¿Deseas aprender más sobre la geografía computacional? Bueno ¡Enteráte más y aprender conmigo! 🔍💡 Suscríbete, activa las notificaciones 🔔 y únete a la comunidad que ama el software libre de codigo abierto. 🌟🌍👇🚀
 
 
 <!---
