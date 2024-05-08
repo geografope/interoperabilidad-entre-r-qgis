@@ -23,12 +23,10 @@ Para poder replicar todo el contenido explicado en el video de YouTube 🔴🎞�
 
 ⚠️ No olvides que los scripts desarrollados están dentro de la carpeta llamado **códigos**.
 
-🔮🧙🏼‍♂️ Finalmente ¿Deseas aprender más sobre la geografía computacional? Bueno ¡Enteráte más y aprender conmigo! 🔍💡 Suscríbete, activa las notificaciones 🔔 y únete a la comunidad que ama el software libre de codigo abierto. 🌟🌍👇🚀
+🔮🧙🏼‍♂️ Finalmente ¿Deseas aprender más sobre la geografía computacional? Bueno ¡Enteráte más y aprender conmigo! 🔍💡 Suscríbete, activa las notificaciones 🔔 y únete a la comunidad que ama el software libre de código abierto. 🌟🌍👇🚀
 
 
-<!---
-[![Watch the video](https://img.youtube.com/vi/L0g2Zjio6Wk/0.jpg)](https://youtu.be/L0g2Zjio6Wk?si=1sdgsVWDp2r4qAQP)
---->
+[![Watch the video](https://img.youtube.com/vi/qjOtQaw9EJ0/0.jpg)](https://youtu.be/qjOtQaw9EJ0?si=kcUjqaj_29YTHwa1)
 
 
 - <img src='https://raw.githubusercontent.com/geografope/recursos/d7be118ef25f46cb6f748d623012bcc9c8e76db6/youtube.svg' width=20 align='center'> https://www.youtube.com/@geografope

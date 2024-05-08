@@ -1,12 +1,19 @@
 library(qgisprocess)
 library(sf)
 library(terra)
+qgis_configure()
+qgis_version()
+qgis_algorithms() |> View()
+algoritmos_total <- qgis_providers() 
+algoritmos_total$algorithm_count |> sum()
 
 # 1. Trabajando con datos raster ------------------------------------------
 # Cálculo del índice de humedad topográfica (TWI)
 dem <- rast('../data/dem.tif')
 fun_twi <- qgis_function(algorithm = "sagang:sagawetnessindex")
-twi <- fun_twi(DEM = dem,TWI = 'twi.sdat') |> 
+twi <- fun_twi(
+  DEM = dem,
+  TWI = qgis_tmp_raster()) |> 
   qgis_extract_output('TWI') |> 
   qgis_as_terra()
 
@@ -20,7 +27,6 @@ pto <- st_read('../data/puntos.gpkg')
 red <- st_read('../data/redes.gpkg')
 
 ruta_corta <- qgis_function(algorithm = "native:shortestpathpointtopoint")
-
 ruta_corta(
   INPUT = red,
   START_POINT = '-71.574229,-13.516067 [EPSG:4326]' ,
